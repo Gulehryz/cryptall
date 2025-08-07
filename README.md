@@ -1,0 +1,2 @@
+# cryptall
+moja appka
